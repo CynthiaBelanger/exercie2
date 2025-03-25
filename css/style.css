@@ -13,3 +13,7 @@ p {
     display: flex;
     flex-direction: row-reverse;
 }
+
+body{
+    background-color: orange;
+}
